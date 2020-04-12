@@ -1,3 +1,4 @@
 # Git Attribues
 *.jpg diff=exif
-
+.*  export-ignore
+tests export-ignore
